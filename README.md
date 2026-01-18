@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ea1a1c4-e7d8-4317-ab82-91586d2fa7cb" />
+
+
 Retail Data Analytics – Business Insights Dashboard
 📌 Project Overview
 
